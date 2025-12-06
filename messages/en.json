@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "catalogue": "Catalogue",
+    "invoices": "Invoices",
+    "contact": "Contact",
+    "language": "Language",
+    "signOut": "Sign Out"
+  },
+  "common": {
+    "welcome": "Welcome to Billora",
+    "description": "AI-powered invoice and contract management made simple.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "toggleTheme": "Toggle theme",
+    "selectLanguage": "Select language"
+  },
+  "home": {
+    "title": "Billora",
+    "slogan": "You create, we do the rest.",
+    "subtitle": "AI-Powered Business Management",
+    "description": "Streamline your business with AI-powered invoice management, contract creation, and product cataloging. Get started in minutes and let artificial intelligence handle the heavy lifting."
+  },
+  "about": {
+    "title": "About Billora",
+    "description": "Billora is a revolutionary AI-powered platform designed to transform how businesses manage their invoices, contracts, and product catalogs.",
+    "features": {
+      "invoices": {
+        "title": "Smart Invoice Management",
+        "description": "Create, track, and manage invoices with AI assistance. Automatically extract data, suggest pricing, and streamline your billing process."
+      },
+      "contracts": {
+        "title": "Intelligent Contract Creation",
+        "description": "Generate professional contracts with AI-powered templates and clause suggestions. Link products and services directly from your catalog."
+      },
+      "catalog": {
+        "title": "Dynamic Product Catalog",
+        "description": "Build and maintain a comprehensive catalog of your products and services. Instantly connect items to invoices and contracts with one click."
+      },
+      "ai": {
+        "title": "AI-Powered Automation",
+        "description": "Let artificial intelligence handle repetitive tasks, suggest optimizations, and provide insights to grow your business faster."
+      }
+    },
+    "benefits": {
+      "title": "Why Choose Billora?",
+      "items": [
+        "Save hours of manual work with AI automation",
+        "Reduce errors in invoicing and contracts",
+        "Centralize all your business documents",
+        "Scale your operations effortlessly",
+        "Get insights to improve your business"
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Domov",
+    "about": "O nás",
+    "catalogue": "Katalóg",
+    "invoices": "Faktúry",
+    "contact": "Kontakt",
+    "language": "Jazyk",
+    "signOut": "Odhlásiť sa"
+  },
+  "common": {
+    "welcome": "Vitajte v Billora",
+    "description": "Správa faktúr a zmlúv s umelou inteligenciou jednoducho.",
+    "getStarted": "Začať",
+    "learnMore": "Dozvedieť sa viac",
+    "toggleTheme": "Prepnúť tému",
+    "selectLanguage": "Vybrať jazyk"
+  },
+  "home": {
+    "title": "Billora",
+    "slogan": "Vy tvoríte, my urobíme zvyšok.",
+    "subtitle": "Firemný manažment s AI",
+    "description": "Zefektívnite svoj biznis pomocou AI-powered správy faktúr, tvorby zmlúv a katalogizácie produktov. Začnite za pár minút a nechajte umelú inteligenciu urobiť ťažkú prácu za vás."
+  },
+  "about": {
+    "title": "O Billora",
+    "description": "Billora je revolučná platforma poháňaná umelou inteligenciou, navrhnutá na transformáciu spôsobu, akým firmy spravujú svoje faktúry, zmluvy a produktové katalógy.",
+    "features": {
+      "invoices": {
+        "title": "Inteligentná správa faktúr",
+        "description": "Vytvárajte, sledujte a spravujte faktúry s asistenciou AI. Automaticky extrahujte údaje, navrhujte ceny a zjednodušte svoj fakturačný proces."
+      },
+      "contracts": {
+        "title": "Inteligentná tvorba zmlúv",
+        "description": "Generujte profesionálne zmluvy s AI šablónami a návrhmi klauzúl. Pripájajte produkty a služby priamo zo svojho katalógu."
+      },
+      "catalog": {
+        "title": "Dynamický produktový katalóg",
+        "description": "Vytvorte a udržiavajte komplexný katalóg svojich produktov a služieb. Okamžite pripájajte položky k faktúram a zmluvám jedným klikom."
+      },
+      "ai": {
+        "title": "Automatizácia s AI",
+        "description": "Nechajte umelú inteligenciu zvládnuť opakujúce sa úlohy, navrhovať optimalizácie a poskytovať prehľady na rýchlejší rast vášho biznisu."
+      }
+    },
+    "benefits": {
+      "title": "Prečo si vybrať Billora?",
+      "items": [
+        "Ušetrite hodiny manuálnej práce s AI automatizáciou",
+        "Znížte chyby vo fakturácii a zmluvách",
+        "Centralizujte všetky svoje firemné dokumenty",
+        "Škálujte svoje operácie bez námahy",
+        "Získajte prehľady na zlepšenie svojho biznisu"
+      ]
+    }
+  }
+}
